@@ -1,5 +1,14 @@
 # Painting-stroke-generation-for-robot-arm-or-CNC-machine
 
+Required Products
+
+    MATLAB R2022a or later
+    Image Processing Toolbox
+    Computer Vision System Toolbox
+    Statistics and Machine Learning Toolbox
+ 
+
+
 So the code take in a picture, make strokes, sort the strokes by color (because we don't want wash the pen too often), display number of strokes for each color, add the add water and color procedure of a few strokes interval. 
 
 After I load all strokes for color01, Roboguide became not responding (guess too much strokes), so I just used first 300 lines and the result can be seen
