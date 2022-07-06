@@ -18,6 +18,10 @@ Output in format of: x,y,z,yaw,pitch,roll
 
 One output file I got has 200k lines.
 
+Possible improvements:
+*Reduce stroke number no overlapping strokes
+*Generate no overlapping small strokes on the image, the color is by the base color
+
 To import the output to Roboguide, see
 https://www.youtube.com/watch?v=k4gOBWY9oB4
 
